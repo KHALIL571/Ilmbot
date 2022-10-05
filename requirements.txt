@@ -1,0 +1,12 @@
+aiogram~=2.14
+environs~=8.0.0
+
+[packages]
+aiogram = "~=2.14"
+environs = "~=8.0.0"
+requests = "*"
+json-extract = "*"
+aioschedule = "*"
+pyrogram = "*"
+
+
